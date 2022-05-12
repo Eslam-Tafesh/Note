@@ -10,7 +10,7 @@ final _lightColors = [
   Colors.pinkAccent.shade100,
   Colors.tealAccent.shade100
 ];
-git add .
+
 final colors_DB = [
   0xff1321E0,
   0xffFFFFFF,
